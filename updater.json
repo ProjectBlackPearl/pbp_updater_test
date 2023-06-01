@@ -4,8 +4,12 @@
   "pub_date": "2023-06-01T15:36:22Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVS9USzM3YWZ5aXBDRHB1TEdpeW9BTkJwS1JvTzAyMWFaRGVUZVovNnBUdjlWSVlIbXlJNGJNV2pXbmFISW91aVY3ZE5KSm05VUgzMExzYnVGbExWT1Q1YWpXdTVFdkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1NjMzNTQ1CWZpbGU6cHJvamVjdC1ibGFjay1wZWFybF8wLjMuMF9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKclRqcWJKdFMwbjVZcmlYZFQ1TFVQTGRMbks5RDU1em5LbnpraUVxSjIya0dMdGNZOXdCVWxPdHhacTFRZDBRdGVJTHpsa01ER2xUOG5QRjZZanI2Q3c9PQo=",
-      "url": "https://github.com/infinity-plus/project_black_pearl/releases/download/pbp-stable-v0.3.1/project-black-pearl_0.3.0_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVS9USzM3YWZ5aXVGRFl5alN6aXVrSVNiMTd6aGR2bUNjSGMyRVRaYWRuMlY4OXN3RUpGVTd5Mi91dUhYVE5kdGFrZ1htUHp0ZGVvSDliT1Y3Q0NoMUIzR3JtTENNVWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1NjQwMzU1CWZpbGU6cHJvamVjdC1ibGFjay1wZWFybF8wLjMuMF9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKcTRSaUJoelBKMUZUY0dobEltMVExbjZqcUhaNXNDY3NUbk9udUJQNFlRU2JCU3NqbExycWNtejJ1SWZya0xuajBGa0xkOWh6MjQ2bXpzNGp1OWdjQXc9PQo=",
+      "url": "https://github.com/infinity-plus/project_black_pearl/releases/download/pbp-stable-v0.3.2/project-black-pearl_0.3.0_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVS9USzM3YWZ5aW5Na1JXWXVKbjJqdERBYjlEQlZiZjlnMmtJdFA2MEZmUFgxelg1MXZvRktaR1NWMjQvakZkd0k5ZytqRzRsU0hMazhtQ1M5Wk1NUnJCVnFpcnMwd1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1NjQwNzEyCWZpbGU6UHJvamVjdCBCbGFjayBQZWFybF8wLjMuMF94NjRfZW4tVVMubXNpLnppcApvZHl3ckRvbld1ck9TcmEzcEdaVU1BdGYvZ1NyMG9WT0cxMWNOcFowVGVDWkZaMDlFQzd0MEJaaERITlVZUmxsNjZoM1BLNHJPRS80SFQ2YUt2QzNCdz09Cg==",
+      "url": "https://github.com/infinity-plus/project_black_pearl/releases/download/pbp-stable-v0.3.2/Project.Black.Pearl_0.3.0_x64_en-US.msi.zip"
     }
   }
 }
