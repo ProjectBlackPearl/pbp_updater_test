@@ -4,8 +4,8 @@
   "pub_date": "2023-06-01T09:50:51Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "Content of app.AppImage.tar.gz.sig",
-      "url": "https://github.com/infinity-plus/project_black_pearl/releases/download/pbp-stable-v0.3.0/project-black-pearl_0.3.0_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVS9USzM3YWZ5aXBDRHB1TEdpeW9BTkJwS1JvTzAyMWFaRGVUZVovNnBUdjlWSVlIbXlJNGJNV2pXbmFISW91aVY3ZE5KSm05VUgzMExzYnVGbExWT1Q1YWpXdTVFdkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1NjMzNTQ1CWZpbGU6cHJvamVjdC1ibGFjay1wZWFybF8wLjMuMF9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKclRqcWJKdFMwbjVZcmlYZFQ1TFVQTGRMbks5RDU1em5LbnpraUVxSjIya0dMdGNZOXdCVWxPdHhacTFRZDBRdGVJTHpsa01ER2xUOG5QRjZZanI2Q3c9PQo=",
+      "url": "https://github.com/infinity-plus/project_black_pearl/releases/download/pbp-stable-v0.3.1/project-black-pearl_0.3.0_amd64.AppImage.tar.gz"
     }
   }
 }
